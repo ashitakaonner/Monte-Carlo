@@ -1,0 +1,21 @@
+1、	For the speed test, see https://github.com/albi3ro/Plots.jl_Examples. 速度测试
+     计算速度预估?
+2、	Marcov Chain Monte Carlo in Julia
+https://github.com/MGYamada/julia/blob/master/README.md 
+已实现的SLMC模拟？
+3、	论文格式参考
+https://www.zhihu.com/question/268569440/answer/343851257 
+4、 Maths | Metropolis-Hastings algorithm 
+https://www.cnblogs.com/RyanXing/p/9469338.html
+    目录
+1. 随机模拟的基本思想
+2. 拒绝抽样
+3. Metropolis-Hastings抽样
+3.1. 引入思想
+3.2. 理论基础：细致平稳条件
+3.3. MH算法实现
+3.4. 算法升级
+3.5. 仿真实验
+仿真目标
+简化
+代码实现
