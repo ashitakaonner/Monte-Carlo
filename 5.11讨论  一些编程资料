@@ -3,6 +3,26 @@
 2、	Marcov Chain Monte Carlo in Julia
 https://github.com/MGYamada/julia/blob/master/README.md 
 已实现的SLMC模拟？
+MCMC0.5：功能编程
+MCMC1.0：MCMC简介
+MCMC1.5：如何绘图
+MCMC2.0：迭代器和生成器
+MCMC2.5：密集和稀疏矩阵
+MCMC3.0：Kitaev模型
+MCMC3.5：Jackknife重新取样
+MCMC4.0：副本交换蒙特卡罗
+MCMC4.5：MPI和并行化
+MCMC5.0：精确对角化和热纯量子态
+MCMC5.5：Python中的精确对角化
+MCMC6.0：Hubbard模型
+MCMC6.5：自学蒙特卡罗（？）
+MCMC7.0：连续时间形式
+MCMC7.5：稀疏建模和分析延续
+MCMC8.0（./ mcmc8.0.ipynb）：具有自旋密度波的行星式蒙特卡罗
+MCMC8.5（./ mcmc8.5.ipynb）：海森堡模型
+MCMC9.0（./ mcmc9.0.ipynb）：随机序列扩展和量子Wang-Landau重采样
+MCMC9.5（./ mcmc9.5.ipynb）：线性映射和Dirac运算符（？）
+MCMC10.0（./ mcmc10.0.ipynb）：超级杨米尔斯理论
 3、	论文格式参考
 https://www.zhihu.com/question/268569440/answer/343851257 
 4、 Maths | Metropolis-Hastings algorithm 
